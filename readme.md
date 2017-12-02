@@ -1,4 +1,4 @@
-# ROT 26
+# ROT26
 
 Two times better than ROT13!
 
